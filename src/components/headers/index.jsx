@@ -10,10 +10,10 @@ import BehanceIcon from './icons/BehanceIcon';
 import EmailIcon from './icons/EmailIcon';
 const Header = () => {
   return (
-    <header className='w-full h-[100svh] bg-gradient-to-br from-gray-700-0 to-gray-800-0'>
+    <header className='w-full h-[900px] bg-gradient-to-br from-gray-700-0 to-gray-800-0'>
       <Container
         className={
-          ' h-full  mx-auto flex flex-col items-center justify-center px-10'
+          ' h-full mx-auto flex flex-col items-center justify-center px-10'
         }
       >
         <article className='text-center max-w-[50rem] select-none'>
